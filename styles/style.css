@@ -1,0 +1,31 @@
+.loader {
+  font-size: 60px;
+  text-align: center;
+}
+
+.grid-fluid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+
+.pokemon {
+  text-align: center;
+  border: 5px solid black;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: red;
+}
+
+.links {
+  text-align: center;
+}
+
+i {
+  padding: 10px;
+  font-size: 30px;
+  color: red;
+}
